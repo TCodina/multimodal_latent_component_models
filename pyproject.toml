@@ -1,5 +1,5 @@
 [project]
-name = "seminar_project"
+name = "latent_component_model_exploration"
 version = "0.1" 
 
 [build-system]
