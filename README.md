@@ -1,6 +1,4 @@
-# A minimal project
-
-Adapted from [The Good  Research Code Handbook](https://goodresearch.dev/setup#create-a-project-skeleton)
+# Multimodal Latent-Component Model Exploration on fNIRS-EEG Data
 
 ```
 |-- data     
